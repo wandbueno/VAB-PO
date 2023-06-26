@@ -1,4 +1,4 @@
-# Problema de Otimização para a Viação Aérea Brasileira (VAB)
+# O Problema da Compra de Aviões da VAB
 
 A VAB está considerando a compra de três tipos de aeronaves: Boeing 717 para transporte aéreo de curta distância, Boeing 737-500 para voos domésticos e internacionais de média distância e MD-11 para voos internacionais de longa distância. Em um estudo preliminar, assume-se que a capacidade máxima dos aviões a serem adquiridos será sempre preenchida para fins de planejamento.
 
